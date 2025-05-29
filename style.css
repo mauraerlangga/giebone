@@ -8,17 +8,6 @@ body {
     background-color: #ffa4c2;
     background: linear-gradient(to bottom, #ffa4c2, #c1e7b4);
 }
-.awan {
-    position: absolute;
-    top: 100px;
-    left: -200px;
-    width: 200px;
-    animation: terbang 30s linear infinite;
-}
-@keyframes terbang {
-    0% { left: -200px; }
-    100% { left: 110%; }
-}
 .namatoko{
     color: #ffe3e6;
     text-align: start;
